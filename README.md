@@ -62,7 +62,7 @@ Este projeto visa:
 
 | Página Inicial | Sessão de Hospitais | Sessão de ONGs | 
 |:---------------:|:------------------:|:---------------:|
-| ![Home](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ccabe974-e5a5-4eef-8ec2-c2e7b6da9118" />) | ![Hospitais](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e36598d9-cce0-4c18-b900-05a0dc851734" />) | ![Doações](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ff3a52d6-c3af-45f9-bd8e-1f64bcc51c8a" />) |
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ccabe974-e5a5-4eef-8ec2-c2e7b6da9118" /> | <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e36598d9-cce0-4c18-b900-05a0dc851734" /> | (<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ff3a52d6-c3af-45f9-bd8e-1f64bcc51c8a" /> |
 
 ---
 
