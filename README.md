@@ -1,7 +1,8 @@
 # 🎀 Outubro Rosa
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ribbon_Pink.svg/512px-Ribbon_Pink.svg.png" width="100" alt="Outubro Rosa Logo">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ccabe974-e5a5-4eef-8ec2-c2e7b6da9118" />
+
 </p>
 
 > Um site informativo e de conscientização sobre a importância da prevenção e do diagnóstico precoce do câncer de mama, desenvolvido com **HTML5**, **CSS3** e **Bootstrap 5**.
@@ -22,11 +23,14 @@ Este projeto web tem como objetivo **espalhar informação, esperança e apoio**
 
 ## 🖼️ Demonstração
 
-> Caso esteja hospedado no GitHub Pages ou outro serviço, substitua o link abaixo 👇
+🔗 **Acesse o site:** https://blog-outubrorosa.netlify.app/
 
-🔗 **Acesse o site:** [https://seuusuario.github.io/outubro-rosa](https://seuusuario.github.io/outubro-rosa)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e36598d9-cce0-4c18-b900-05a0dc851734" />
 
-<img src="https://i.imgur.com/o7vklgD.png" alt="Prévia do site Outubro Rosa" width="700">
+--
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ff3a52d6-c3af-45f9-bd8e-1f64bcc51c8a" />
+
 
 ---
 
@@ -41,8 +45,68 @@ Este projeto web tem como objetivo **espalhar informação, esperança e apoio**
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## 🩺 Objetivos do Projeto
 
-1. **Clone este repositório**
-   ```bash
-   git clone https://github.com/seuusuario/outubro-rosa.git
+O **Outubro Rosa** nasceu como um movimento mundial de conscientização.  
+Este projeto visa:
+
+- Informar sobre **hospitais de referência** no tratamento do câncer de mama.  
+- Apresentar **ONGs que apoiam mulheres** em tratamento e aceitam doações.  
+- Exibir **depoimentos reais em vídeo** para inspirar e encorajar.  
+- Conscientizar sobre a **importância do diagnóstico precoce**.  
+- Promover **acolhimento e empatia** através do design e da mensagem.
+
+---
+
+## 🖥️ Capturas de Tela
+
+| Página Inicial | Sessão de Hospitais | Sessão de ONGs | 
+|:---------------:|:------------------:|:---------------:|
+| ![Home](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ccabe974-e5a5-4eef-8ec2-c2e7b6da9118" />) | ![Hospitais](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e36598d9-cce0-4c18-b900-05a0dc851734" />) | ![Doações](<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ff3a52d6-c3af-45f9-bd8e-1f64bcc51c8a" />) |
+
+---
+
+## 🌸 Sessões do Site
+
+| Seção | Descrição |
+|:------|:-----------|
+| 🏠 **Início** | Banner e carrossel com imagens da campanha |
+| 🎥 **Depoimentos** | Vídeos reais de mulheres que venceram o câncer |
+| 🏥 **Hospitais** | Lista de hospitais de referência no Brasil |
+| 💝 **Doações** | ONGs e instituições para contribuir com a causa |
+| 📞 **Contato / Redes Sociais** | Links para engajamento e compartilhamento |
+
+---
+
+## 💗 Inspiração
+
+O projeto foi inspirado pela força de mulheres que enfrentam o câncer com coragem e esperança.
+A cor rosa representa o cuidado, a empatia e o amor — pilares desta campanha.
+
+“Prevenir é um ato de amor. Detectar cedo é salvar vidas.”
+
+---
+
+## 📚 Recursos e Referências
+
+- Ministério da Saúde - Outubro Rosa
+
+- Instituto Nacional de Câncer (INCA)
+
+- FEMAMA
+
+- Fundação Laço Rosa
+
+- Instituto Protea
+
+---
+
+## 👩‍💻 Autor
+
+Rafaela Oliveira
+
+🌐 github.com/rafaoliveira15
+
+✉️ rafaelacristina1510.oliveira@gmail.com
+
+
